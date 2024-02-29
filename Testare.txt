@@ -1,6 +1,6 @@
  Lista de site-uri:
-1.https://www.supermisto.ro/
+
 
 Timpul de încărcare	Font,culori zgomotoase, care distrag atenția	Neoptimizat pentru diversitatea de dispozitive	Link-uri rupte	Conținut neadecvat	Asistență online(chat)
 Se încarcă destul de rapid(1-2 secunde)	Fontul nu este cel mai bun dar culorile de roșu atrag atenția și posibili clienți	Pe mobil diferă interfața față de cea de pe un calculator(butoanele,aranjarea în pagină ) .Se găsesc mai greu 
-Informațiile adăugătoare	-	-	-
+Informațiile adăugătoare
